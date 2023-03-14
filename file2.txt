@@ -1,0 +1,31 @@
+Aliquam elementum, turpis eu lacinia faucibus, diam elit
+sollicitudin nunc, sit amet sodales leo sapien et sem.
+
+Please make sure you create the files exactly as shown here. Make sure you break the lines at
+the same locations and that you don’t introduce extra whitespace characters. It is recommended
+to copy and paste the content.
+After creating the files add and commit them to Git with the following commands (Don’t forget to
+cd into the directory before trying these commands):
+git add file1.txt file2.txt file3.txt
+git commit -m “initial set of files”
+We will now push the commit we just created directly into the “main” branch of our Git
+repository. This is something that a maintainer can typically do, but that is usually avoided in
+real software projects because it bypasses the code review and CI mechanisms.
+git push origin
+Once we’re done pushing, we should be able to see the new files from the GitHub UI.
+Contributor task 1: Fork the repository
+Once the repository and the initial set of files are created by the maintainer, the contributor can
+fork the repository to his own GitHub account.
+
+Page 4 of 27
+
+Maecenas mauris eros, sollicitudin at elit in,
+pellentesque
+mattis orci. Aliquam elementum finibus dictum.
+Aenean vitae condimentum eros. Nullam quis laoreet metus.
+Phasellus at tincidunt dolor. Orci varius natoque
+penatibus
+et magnis dis parturient montes, nascetur ridiculus mus.
+Cras pretium ullamcorper quam sit amet dapibus.
+Integer ac nibh nec est porttitor semper ultrices eu
+ligula. Etiam sodales porttitor venenatis.
